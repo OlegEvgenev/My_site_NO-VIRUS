@@ -1,0 +1,166 @@
+.p{
+    top:0px;
+}
+.buton{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(186, 82, 82);
+    color:blanchedalmond;
+    
+    top: 0px;
+}
+.buton1{
+    background-color: rgb(186, 82, 82);
+    color:blanchedalmond;
+    top: 0px;
+    height: 40px;
+    width: 100px;
+}
+.texT{
+    z-index: 1;
+    position: relative;
+    font-size: 60px;
+    color: rgb(94, 37, 37);
+    top: 0px;
+}
+body{
+    background-color: blanchedalmond;
+}
+.spi1{
+    pointer-events: none;
+    opacity: 0;
+    top: 0px;
+}
+.spi11{
+    pointer-events: none;
+    opacity: 0;
+    top: 0px;
+}
+.pro{
+    background-color: rgb(186, 82, 82);
+    color:blanchedalmond;
+    top: 0px;
+}
+.spi2{
+    pointer-events: none;
+    opacity: 0;
+    top: 0px;
+    opacity: 0;
+}
+.input{
+    background-color: rgb(186, 82, 82);
+    color:blanchedalmond;
+    top: 0px;
+}
+.in1{
+    background-color: rgb(186, 82, 82);
+    color:blanchedalmond;
+    top: 0px;
+}
+.prin{
+    background-color: rgb(186, 82, 82);
+    color:blanchedalmond;
+    top: 0px;
+}
+.X1{
+    background-color: rgb(186, 82, 82);
+    color:blanchedalmond;
+    top: 0px;
+}
+.X11{
+    background-color: rgb(186, 82, 82);
+    color:blanchedalmond;
+    top: 0px;
+}
+.x2{
+    background-color: rgb(186, 82, 82);
+    color:blanchedalmond;
+    top: 0px;
+}
+.opa{
+    pointer-events: all;
+    opacity: 1;
+}
+.A{
+    padding-top: 100px;
+    font-size: 100px;
+}
+.kalkulator{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+}
+.sai{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+}
+.sik{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    background-color: black;
+    color: white;
+    
+}
+
+.del{
+    background-color: red;
+}
+.back{
+    background-color: aqua;
+}
+.id{
+    
+    background-color: rgb(65, 202, 65);
+}
+
+.id2{
+    background-color: rgb(65, 202, 65);
+}
+
+.id3{
+    background-color: rgb(65, 202, 65);
+}
+
+.id4{
+    background-color: rgb(65, 202, 65);
+}
+
+.id5{
+    background-color: rgb(65, 202, 65);
+}
+
+.lis{
+    background-color: rgb(186, 82, 82);
+    color:blanchedalmond;
+    
+}
+.in12{
+    background-color: rgb(186, 82, 82);
+    color:blanchedalmond;
+}
+.in11{
+    background-color: rgb(186, 82, 82);
+    color:blanchedalmond;
+}
+.name{
+    z-index: 3;
+    position: absolute;
+    left: 1300px;
+    top: 0px;
+    font-size: 40px;
+}
+.Sname{
+    z-index: 3;
+    position: absolute;
+    left: 1300px;
+    top: 30px;
+    font-size: 40px;
+}
+
+
+
+
+
+
+
+
+
